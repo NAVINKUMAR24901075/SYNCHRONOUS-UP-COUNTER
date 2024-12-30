@@ -70,7 +70,7 @@ Compare the simulated results with the truth table for a synchronous up counter.
 
 # PROGRAM: 
 ~~~
-module ex11(out,clk,rstn);
+module SC(out,clk,rstn);
 input clk,rstn;
 output reg [3:0]out;
 always @ (posedge clk)
@@ -93,7 +93,7 @@ endmodule
 
 # OUTPUT WAVEFORM:
 
-![Screenshot 2024-12-23 104231](https://github.com/user-attachments/assets/73f07ff4-78b3-42f3-925a-9024ccedd733)
+![Screenshot 2024-12-30 110421](https://github.com/user-attachments/assets/31d8a5ef-2138-444d-a14c-da8953843a18)
 
 # RESULT:
 
