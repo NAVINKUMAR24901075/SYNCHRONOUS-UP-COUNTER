@@ -97,4 +97,4 @@ endmodule
 
 # RESULT:
 
-Thus 4 bit synchronous up counter is implemented using verilog and validate using their waveform.
+Thus 4 bit synchronous up counter is implemented using verilog and validate using their waveform and verified successfully
